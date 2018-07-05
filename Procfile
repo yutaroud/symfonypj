@@ -1,1 +1,1 @@
-web: bin/stmfony web/
+web: bin/heroku-php-apache2 web/
