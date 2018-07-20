@@ -9,7 +9,7 @@ use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 class MyControllerController extends Controller
 {
     /**
-     * @Route("/my-route")
+     * @Route("/my-routa")
      * @Template()
      */
     public function myAction()
